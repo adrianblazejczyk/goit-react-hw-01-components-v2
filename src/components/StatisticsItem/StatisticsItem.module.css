@@ -1,0 +1,32 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-width: 1px;
+    width: 90px;
+    height: 90px;
+    color: black;
+    border-color: black;
+  }
+  .label {
+    font-size: 25px;
+    margin-bottom: 5px;
+  }
+  .percentage {
+    font-size: 30px;
+  }
+  
+  .mp3 {
+    background-color: rgb(255, 30, 0);
+  }
+  .pdf {
+    background-color: purple;
+  }
+  .docx {
+    background-color: rgb(0, 168, 247);
+  }
+  .psd {
+    background-color: green;
+  }

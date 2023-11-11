@@ -1,0 +1,15 @@
+
+tbody tr {
+    text-transform: capitalize;
+    color: #484848;
+    text-align: center;
+    font-size: 30px;
+    line-height: 50px;
+  }
+  .bgcWhite {
+    background-color: white;
+  }
+  .bgcGray {
+    background-color: gainsboro;
+    border-color: gainsboro;
+  }
