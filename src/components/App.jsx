@@ -16,7 +16,7 @@ const appStyle = {
   justifyContent: 'spaceAround',
   margin: '50px',
   alignItems: 'center',
-  fontSize: 40,
+  fontSize: 41,
   color: '#010101',
   gap: '20px',
 };
